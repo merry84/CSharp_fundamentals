@@ -15,5 +15,5 @@ for (int i = 0; i < n; i++)
 //Print the array in reversed order.
 for (int i = numbers.Length - 1; i >= 0 ; i--)
 {
-    Console.WriteLine(numbers[i] +" ");
+    Console.Write(numbers[i] +" ");
 }
