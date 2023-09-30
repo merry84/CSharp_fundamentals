@@ -29,7 +29,7 @@ for (int i = 0; i < arr1.Length; i++)
     
 }
 
-Console.WriteLine($"Arrays are identical.Sum: {sum}");
+Console.WriteLine($"Arrays are identical. Sum: {sum} ");
 
 
 
