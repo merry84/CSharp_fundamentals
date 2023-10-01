@@ -5,9 +5,7 @@ Hey hello 2 4
 10 hey 4 hello 
 i love to code 
 code i love to 
-  
-  
- */
+     */
 string input = Console.ReadLine();
 string[] firstArr = input.Split();
 input = Console.ReadLine();
