@@ -5,11 +5,13 @@ VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Train", "Train\Train.csproj", "{20B943C8-160F-4DF1-A6F3-EFF81C7A0986}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonElements", "CommonElements\CommonElements.csproj", "{4053881B-263C-42DB-BB2B-4122905BDDEE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommonElements", "CommonElements\CommonElements.csproj", "{4053881B-263C-42DB-BB2B-4122905BDDEE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zig-ZagArrays", "Zig-ZagArrays\Zig-ZagArrays.csproj", "{F347B634-42E9-4140-8A22-2469A3EA6E5F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zig-ZagArrays", "Zig-ZagArrays\Zig-ZagArrays.csproj", "{F347B634-42E9-4140-8A22-2469A3EA6E5F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayRotation", "ArrayRotation\ArrayRotation.csproj", "{A72B87F0-C2C4-47E3-92CB-901225F3D9ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayRotation", "ArrayRotation\ArrayRotation.csproj", "{A72B87F0-C2C4-47E3-92CB-901225F3D9ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopIntegers", "TopIntegers\TopIntegers.csproj", "{F4E136AD-6179-4B24-BB7F-316F303D6DBB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{A72B87F0-C2C4-47E3-92CB-901225F3D9ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A72B87F0-C2C4-47E3-92CB-901225F3D9ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A72B87F0-C2C4-47E3-92CB-901225F3D9ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4E136AD-6179-4B24-BB7F-316F303D6DBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4E136AD-6179-4B24-BB7F-316F303D6DBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4E136AD-6179-4B24-BB7F-316F303D6DBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4E136AD-6179-4B24-BB7F-316F303D6DBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
