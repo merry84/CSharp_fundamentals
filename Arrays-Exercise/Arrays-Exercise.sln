@@ -13,6 +13,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayRotation", "ArrayRotat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopIntegers", "TopIntegers\TopIntegers.csproj", "{F4E136AD-6179-4B24-BB7F-316F303D6DBB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualSum", "EqualSum\EqualSum.csproj", "{4A0F6357-0C81-4EFC-8585-1353180AC3A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxSequenceOfEqualElements", "MaxSequenceOfEqualElements\MaxSequenceOfEqualElements.csproj", "{C76903DC-2CB2-4239-99D4-95EFA746D58A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{F4E136AD-6179-4B24-BB7F-316F303D6DBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4E136AD-6179-4B24-BB7F-316F303D6DBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4E136AD-6179-4B24-BB7F-316F303D6DBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A0F6357-0C81-4EFC-8585-1353180AC3A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A0F6357-0C81-4EFC-8585-1353180AC3A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A0F6357-0C81-4EFC-8585-1353180AC3A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A0F6357-0C81-4EFC-8585-1353180AC3A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C76903DC-2CB2-4239-99D4-95EFA746D58A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C76903DC-2CB2-4239-99D4-95EFA746D58A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C76903DC-2CB2-4239-99D4-95EFA746D58A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C76903DC-2CB2-4239-99D4-95EFA746D58A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
