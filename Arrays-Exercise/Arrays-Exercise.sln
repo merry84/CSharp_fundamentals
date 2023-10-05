@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonElements", "CommonEle
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zig-ZagArrays", "Zig-ZagArrays\Zig-ZagArrays.csproj", "{F347B634-42E9-4140-8A22-2469A3EA6E5F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayRotation", "ArrayRotation\ArrayRotation.csproj", "{A72B87F0-C2C4-47E3-92CB-901225F3D9ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{F347B634-42E9-4140-8A22-2469A3EA6E5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F347B634-42E9-4140-8A22-2469A3EA6E5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F347B634-42E9-4140-8A22-2469A3EA6E5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A72B87F0-C2C4-47E3-92CB-901225F3D9ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A72B87F0-C2C4-47E3-92CB-901225F3D9ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A72B87F0-C2C4-47E3-92CB-901225F3D9ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A72B87F0-C2C4-47E3-92CB-901225F3D9ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
