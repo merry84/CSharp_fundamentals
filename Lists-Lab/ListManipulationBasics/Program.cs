@@ -28,6 +28,7 @@ namespace ListManipulationBasics
                 string[] inputTokens = input.Split().ToArray();
                 string command = inputTokens[0];
 
+
                 if (command == "Add")
                 {
                     int number = int.Parse(inputTokens[1]);
