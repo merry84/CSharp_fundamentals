@@ -42,6 +42,11 @@ internal class Program
                 PrintEven(numbers);
                 
             }
+            else if (command == "Remove")
+            {
+                int number = int.Parse(inputTokens[1]);
+                numbers.Remove(number);
+            }
             else if (command == "Add")
             {
                 int number = int.Parse(inputTokens[1]);

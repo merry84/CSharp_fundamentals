@@ -25,11 +25,11 @@
             double sumSecondCar = SumSecondCar(carRace);
             if (sumFirstCar > sumSecondCar)
             {
-                Console.WriteLine($"The winner is right with total time: {Math.Floor(sumSecondCar)}");
+                Console.WriteLine($"The winner is right with total time: {sumSecondCar.ToString():f1)}");
             }
             else
             {
-                Console.WriteLine($"The winner is left with total time: {sumFirstCar:f1}");
+                Console.WriteLine($"The winner is left with total time: {sumFirstCar.ToString():f1}");
             }
             
         }
@@ -61,5 +61,6 @@
             }
             return sum;
         }
+       
     }
 }
