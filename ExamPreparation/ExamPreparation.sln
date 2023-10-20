@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheLift", "TheLift\TheLift.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovingTarget", "MovingTarget\MovingTarget.csproj", "{622F71DF-30F3-41BA-A14E-97FF84934887}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComputerStore", "ComputerStore\ComputerStore.csproj", "{44485FBB-0E51-48B9-AD6B-56EDEAF6C613}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{622F71DF-30F3-41BA-A14E-97FF84934887}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{622F71DF-30F3-41BA-A14E-97FF84934887}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{622F71DF-30F3-41BA-A14E-97FF84934887}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44485FBB-0E51-48B9-AD6B-56EDEAF6C613}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44485FBB-0E51-48B9-AD6B-56EDEAF6C613}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44485FBB-0E51-48B9-AD6B-56EDEAF6C613}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44485FBB-0E51-48B9-AD6B-56EDEAF6C613}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
