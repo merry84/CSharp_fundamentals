@@ -81,12 +81,12 @@ namespace ComputerStore
                 Console.WriteLine("Congratulations you've just bought a new computer!");
                 Console.WriteLine($"Price without taxes: {totalPrice:f2}$");
                 Console.WriteLine($"Taxes: {taxPrice:f2}$");
-                decimal discountPrice = allPrice * (10m / 100m);
+                decimal discount = allPrice * (10m / 100m);
 
                 Console.WriteLine("-----------");
                 if (input == "special")
                 {
-                    Console.WriteLine($"Total price: {(allPrice-discountPrice):f2}$");
+                    Console.WriteLine($"Total price: {(allPrice-discount):f2}$");
                 }
                 else
                 {
