@@ -33,7 +33,7 @@
             while (student > 0)
             {
                 hourNeed++;
-                if (hourNeed == 4 )
+                if (hourNeed % 4 == 0 )
                 {
                     continue;
                 }

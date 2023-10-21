@@ -1,32 +1,6 @@
 ﻿namespace GuineaPig
 {
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-            using Microsoft.VisualBasic;
-            using System;
-            using System.Collections;
-            using System.Collections.Generic;
-            using System.ComponentModel;
-            using System.Diagnostics;
-            using System.Diagnostics.Metrics;
-            using System.Drawing;
-            using System.Net.NetworkInformation;
-            using System.Numerics;
-            using System.Reflection;
-            using System.Runtime.ConstrainedExecution;
-            using System.Text;
-
-namespace _55
-    /*
-    1
-    1.5
-    3
-    1.51
-
-    */
-    {
+   
         internal class Program
         {
             static void Main(string[] args)
@@ -81,7 +55,6 @@ namespace _55
             }
         }
 
-    }
+    
 }
-    }
-}
+
