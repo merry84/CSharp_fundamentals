@@ -3,29 +3,33 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuineaPig", "GuineaPig\GuineaPig.csproj", "{CE3875AA-F1AA-4A13-85D6-F42BBB787B66}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GuineaPig", "GuineaPig\GuineaPig.csproj", "{CE3875AA-F1AA-4A13-85D6-F42BBB787B66}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheLift", "TheLift\TheLift.csproj", "{3CCFC890-B7B1-4187-9F95-63FE83947B14}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheLift", "TheLift\TheLift.csproj", "{3CCFC890-B7B1-4187-9F95-63FE83947B14}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovingTarget", "MovingTarget\MovingTarget.csproj", "{622F71DF-30F3-41BA-A14E-97FF84934887}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovingTarget", "MovingTarget\MovingTarget.csproj", "{622F71DF-30F3-41BA-A14E-97FF84934887}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComputerStore", "ComputerStore\ComputerStore.csproj", "{44485FBB-0E51-48B9-AD6B-56EDEAF6C613}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ComputerStore", "ComputerStore\ComputerStore.csproj", "{44485FBB-0E51-48B9-AD6B-56EDEAF6C613}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShootForTheWin", "ShootForTheWin\ShootForTheWin.csproj", "{BEEF6064-2918-4413-AD7E-FD2B4DAACD21}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShootForTheWin", "ShootForTheWin\ShootForTheWin.csproj", "{BEEF6064-2918-4413-AD7E-FD2B4DAACD21}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Counter-Strike", "Counter-Strike\Counter-Strike.csproj", "{E4325995-30C3-406D-A055-3AB5356DEA48}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Counter-Strike", "Counter-Strike\Counter-Strike.csproj", "{E4325995-30C3-406D-A055-3AB5356DEA48}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoryGame", "MemoryGame\MemoryGame.csproj", "{CC11E65D-3704-45CA-9AA4-23923B647C4E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MemoryGame", "MemoryGame\MemoryGame.csproj", "{CC11E65D-3704-45CA-9AA4-23923B647C4E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUniReception", "SoftUniReception\SoftUniReception.csproj", "{E44DECD4-F34C-4945-81FA-0C5D9DF4DAB7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SoftUniReception", "SoftUniReception\SoftUniReception.csproj", "{E44DECD4-F34C-4945-81FA-0C5D9DF4DAB7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayModifier", "ArrayModifier\ArrayModifier.csproj", "{DD9935AF-CE8D-45A9-9A25-C85EDB8AACDA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayModifier", "ArrayModifier\ArrayModifier.csproj", "{DD9935AF-CE8D-45A9-9A25-C85EDB8AACDA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numbers", "Numbers\Numbers.csproj", "{125F0D89-1422-4863-9942-D29EEDA4B3F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Numbers", "Numbers\Numbers.csproj", "{125F0D89-1422-4863-9942-D29EEDA4B3F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingList", "ShoppingList\ShoppingList.csproj", "{BADA2FA5-1FCB-4374-8CA1-6B6AB096F862}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShoppingList", "ShoppingList\ShoppingList.csproj", "{BADA2FA5-1FCB-4374-8CA1-6B6AB096F862}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeartDelivery", "HeartDelivery\HeartDelivery.csproj", "{F0796D54-3316-432E-8B83-92FF2CAEA0F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HeartDelivery", "HeartDelivery\HeartDelivery.csproj", "{F0796D54-3316-432E-8B83-92FF2CAEA0F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BonusScoringSystem", "BonusScoringSystem\BonusScoringSystem.csproj", "{AC5420D0-438B-4FFE-A990-0F25CDE20DAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MuOnline", "MuOnline\MuOnline.csproj", "{B5B764D3-F66B-41E1-926A-C71882B077CC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +85,14 @@ Global
 		{F0796D54-3316-432E-8B83-92FF2CAEA0F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F0796D54-3316-432E-8B83-92FF2CAEA0F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F0796D54-3316-432E-8B83-92FF2CAEA0F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC5420D0-438B-4FFE-A990-0F25CDE20DAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC5420D0-438B-4FFE-A990-0F25CDE20DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC5420D0-438B-4FFE-A990-0F25CDE20DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC5420D0-438B-4FFE-A990-0F25CDE20DAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5B764D3-F66B-41E1-926A-C71882B077CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5B764D3-F66B-41E1-926A-C71882B077CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5B764D3-F66B-41E1-926A-C71882B077CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5B764D3-F66B-41E1-926A-C71882B077CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
